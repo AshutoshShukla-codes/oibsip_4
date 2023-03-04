@@ -24,7 +24,7 @@
 
 ![not spam messages](https://user-images.githubusercontent.com/100411386/222920723-3b82f0f4-aceb-4ca4-b637-afe2d63c409b.png)
 
-<h1>Natural Processing techniques (NLP) used :</h1>
+<h1>Natural Language Processing (NLP) techniques used :</h1>
 <p><b>1. LowerCase Conversion :</b> Converting every letters in lowercase </p>
 <p><b>2. Word tokenization :</b> Converting the sentences into list of words</p>
 <p><b>3. Stop Words Removal :</b> Removing the stop words from data which do not adds meaning to the sentences like the, a, this, etc..</p>
