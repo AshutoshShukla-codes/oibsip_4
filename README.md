@@ -6,7 +6,7 @@
 
 ![Screenshot (111)](https://user-images.githubusercontent.com/100411386/222920173-c8efafd5-6efb-442c-bd53-09d1287a5741.png)
 
-<h5>Model</h5>
+<h1>Model :</h1>
 <p>Multinomial Naive Bayes algorithm (MNB) is a probabilistic learning method that is mostly used in Natural Language Processing (NLP).</p>
 <p>I have choosen MNB model as its precision is better and in this type of problem precision matters more than accuracy</p>
 <p>Precision : 1.0</p>
