@@ -14,7 +14,7 @@
                         [ 42  96]]</p>
 <p>Accuracy : 0.9593810444874274</p>
 
-<h1>About Data :</p>
+<h1>About Data :</h1>
 <p>Most occuring words in a Spam messages in the data</p>
 
 ![span messages](https://user-images.githubusercontent.com/100411386/222920701-991fff8a-aea0-4dfa-bd4f-078257464a78.png)
