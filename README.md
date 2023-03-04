@@ -16,6 +16,11 @@
 
 <h1>About Data :</p>
 <p>Most occuring words in a Spam messages in the data</p>
+
 ![span messages](https://user-images.githubusercontent.com/100411386/222920701-991fff8a-aea0-4dfa-bd4f-078257464a78.png)
+
 <p>Most occuring words in a not Spam messages in the data</p>
+
 ![not spam messages](https://user-images.githubusercontent.com/100411386/222920723-3b82f0f4-aceb-4ca4-b637-afe2d63c409b.png)
+
+
